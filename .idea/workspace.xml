@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="80278e56-c0c8-48d9-8aef-71f73e8287ed" name="Default Changelist" comment="split of main-modules">
+      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sevenfacette-jvm-example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.buildship.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main/de/p7s1/qa/sevenfacette/http/RestFulBookerClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/test/facetteConfig.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/test/facetteConfigMultiFile.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/test/facetteConfigMultiFileField.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/test/facetteConfigMultiFileField2.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/test/facetteConfigPart2.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/test/httpClientConfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/test/nestedConfig.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/test/test.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/ifxjdbc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/p7s1/qa/sevenfacette/http/RestFulBookerClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/de/p7s1/qa/sevenfacette/config/ConfigReaderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/de/p7s1/qa/sevenfacette/database/JDatabaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/de/p7s1/qa/sevenfacette/http/RestFulBookerClientTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/de/p7s1/qa/sevenfacette/kafka/JKafkaConsumerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/de/p7s1/qa/sevenfacette/selenium/SevenFacetteDriverTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/de/p7s1/qa/sevenfacette/utils/FileLoaderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/facetteConfig.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/facetteConfigMultiFile.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/facetteConfigMultiFileField.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/facetteConfigMultiFileField2.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/facetteConfigPart2.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/http/example.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/httpClientConfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/restfulBookerClientTestConfig.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/seleniumTestConfig.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testfiles/BaseImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testfiles/test.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="sevenfacette-jvm-example" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="sevenfacette-jvm-example" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="sevenfacette-jvm-example" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="sevenfacette-jvm-example" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KotlinMultiplatform">
+    <executables />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kByOlqTWIpVJZTSnn2FkfBBpHN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SevenFacette" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\StellaB\IdeaProjects\sevenfacette-jvm-example" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle " />
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.sevenfacette-jvm-example">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sevenfacette-jvm-example [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="sevenfacette-jvm-example" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.sevenfacette-jvm-example [clean]" />
+        <item itemvalue="Gradle.sevenfacette-jvm-example" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80278e56-c0c8-48d9-8aef-71f73e8287ed" name="Default Changelist" comment="" />
+      <created>1605188249989</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605188249989</updated>
+      <workItem from="1605188251169" duration="2130000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="split of main-modules" />
+    <option name="LAST_COMMIT_MESSAGE" value="split of main-modules" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="225" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605188363119">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="225" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1605188363119" />
+    <state x="286" y="0" key="CommitChangelistDialog2" timestamp="1605190055721">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="286" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1605190055721" />
+    <state x="550" y="168" key="FileChooserDialogImpl" timestamp="1605188574574">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="550" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605188574574" />
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1605189806485">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605189806485" />
+    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1605189806470">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605189806470" />
+    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1605189806470">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605189806470" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1605189806485">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605189806485" />
+    <state x="362" y="146" key="Vcs.Push.Dialog.v2" timestamp="1605190006695">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="362" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605190006695" />
+    <state x="426" y="188" width="672" height="677" key="run.anything.popup" timestamp="1605189801050">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="426" y="188" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1605189801050" />
+  </component>
+</project>
